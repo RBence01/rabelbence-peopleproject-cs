@@ -1,0 +1,15 @@
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\PeopleProject.dll
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\PeopleProject.pdb
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\nunit.framework.dll
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\nunit.framework.legacy.dll
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\nunit.framework.xml
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\nunit.framework.legacy.xml
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\vsrepos\PeopleProject\PeopleProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\vsrepos\PeopleProject\PeopleProject\obj\Debug\PeopleProject.csproj.AssemblyReference.cache
+D:\vsrepos\PeopleProject\PeopleProject\obj\Debug\PeopleProject.csproj.CoreCompileInputs.cache
+D:\vsrepos\PeopleProject\PeopleProject\obj\Debug\PeopleProject.csproj.CopyComplete
+D:\vsrepos\PeopleProject\PeopleProject\obj\Debug\PeopleProject.dll
+D:\vsrepos\PeopleProject\PeopleProject\obj\Debug\PeopleProject.pdb
